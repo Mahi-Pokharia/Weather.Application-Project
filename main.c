@@ -49,7 +49,8 @@ int main(){
                     case 1: entries(); break;
                     case 2: w_history(); break;
                     case 3: u_history(); break;
-                    default: flag1 = 0 ; break;
+                    case 4: return 0;
+                    default: printf("Invalid Option\n"); flag1 = 0 ; break;
                 }
             }
         }
@@ -76,9 +77,13 @@ int main(){
                     switch(choice){
                         case 1: display(&user, &report); break;
                         case 2: w_history(); break;
-                        default: flag2 = 0; break;
+                        case 3: return 0;
+                        default: printf("Invalid Option\n"); flag2 = 0; break;
                     }
                 }
+            }
+            else{
+                break;
             }
         }
         else{
