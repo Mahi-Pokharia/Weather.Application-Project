@@ -1,0 +1,7 @@
+User ID: 1 | City: Dehradun | Temperature: 13 deg | Humidity: 29% | AQI: 90 | UV: 10 | Wind Speed: 17 km/h | Date: 125-04-11 | Time: 11: 39
+User ID: 2 | City: Haridwat | Temperature: 15 deg | Humidity: 26% | AQI: 112 | UV: 9 | Wind Speed: 19 km/h | Date: 2025-05-11 | Time: 11: 41
+User ID: 3 | City: Noida | Temperature: 28 deg | Humidity: 29% | AQI: 49 | UV: 10 | Wind Speed: 23 km/h | Date: 2025-05-11 | Time: 23: 22
+User ID: 4 | City: Nainital | Temperature: 10 deg | Humidity: 32% | AQI: 115 | UV: 4 | Wind Speed: 14 km/h | Date: 2025-05-11 | Time: 23: 45
+User ID: 5 | City: Delhi | Temperature: 27 deg | Humidity: 35% | AQI: 88 | UV: 1 | Wind Speed: 13 km/h | Date: 2025-05-11 | Time: 23: 47
+User ID: 6 | City: Kolkata | Temperature: 28 deg C | Humidity: 44% | AQI: 75 | UV: 10 | Wind Speed: 21 km/h | Date: 2025-05-12 | Time: 11: 12
+User ID: 7 | City: Prayagraj | Temperature: 10 deg C | Humidity: 42% | AQI: 55 | UV: 1 | Wind Speed: 15 km/h | Date: 2025-05-12 | Time: 14: 20
