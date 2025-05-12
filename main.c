@@ -220,7 +220,7 @@ int admin_login(void){
     printf("Enter password: ");
     scanf("%s",a_pass);
 
-    if(strcspn(a_id, ADMIN_ID) == 0 && strcspn(a_pass, ADMIN_PASS) == 0){
+    if(strcmp(a_id, ADMIN_ID) == 0 && strcmp(a_pass, ADMIN_PASS) == 0){
         printf("Admin access granted\n\n");
         return 0;
     }
