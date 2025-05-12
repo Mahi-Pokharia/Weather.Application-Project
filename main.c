@@ -49,7 +49,7 @@ int main(){
                     case 1: entries(); break;
                     case 2: w_history(); break;
                     case 3: u_history(); break;
-                    case 4: return 0;
+                    case 4: printf("Thank You\n"); return 0;
                     default: printf("Invalid Option\n"); flag1 = 0 ; break;
                 }
             }
@@ -77,7 +77,7 @@ int main(){
                     switch(choice){
                         case 1: display(&user, &report); break;
                         case 2: w_history(); break;
-                        case 3: return 0;
+                        case 3: printf("Thank You"); return 0;
                         default: printf("Invalid Option\n"); flag2 = 0; break;
                     }
                 }
